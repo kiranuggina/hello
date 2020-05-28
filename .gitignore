@@ -43,4 +43,6 @@ stamp-h1
 src/bin/.deps
 lib/libstatic/.deps
 lib/libshared/.deps
+lib/libshared/.libs
+src/bin/.libs
 src/bin/hello
