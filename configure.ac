@@ -10,6 +10,7 @@ AM_INIT_AUTOMAKE
 # Checks for programs.
 AC_PROG_CC
 LT_INIT
+AM_PROG_CC_C_O
 AC_PROG_RANLIB
 
 # Checks for libraries.
